@@ -1,0 +1,60 @@
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.ppf_quiz.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.ppf_quiz.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.ppf_quiz.resources
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfcha\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.ppf_quiz.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WinFormsApp\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe.config
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\bin\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\bin\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.ppf_quiz.resources
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.Properties.Resources.resources
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.exe
+C:\Users\cotoc\Desktop\quiz_ppfchallenge_240206 - コピー\quiz_ppfcha\obj\Debug\quiz_ppfcha.pdb
+C:\Users\cotoc\Desktop\quiz_ppfchallenge\quiz_ppfcha\obj\Debug\quizPpfcha.PpfQuiz.resources
